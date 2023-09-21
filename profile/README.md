@@ -19,7 +19,7 @@ Their inherent minimalistic design ensures ease of comprehension and user-friend
 ## Colour Palette
 
 <p align="center">
-    <img src="./colourpalette.png" style="height: 10rem; width: 50rem" />
+    <img src="profile/colourpalette.png" style="height: 10rem; width: 50rem" />
 </p>
 
 
