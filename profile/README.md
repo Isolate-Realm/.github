@@ -16,6 +16,13 @@ Their inherent minimalistic design ensures ease of comprehension and user-friend
 - [ ] Calender (check for google calender integration)
 - [ ] Better Email (readonly)
 
+## Why a Snow Leopard?
+
+Isolate Realm embodies self-reliance and adaptability. Snow leopards don't rely on packs to succeed as
+hunters; they are solitary and self-sufficient. Similarly, this project aims to provide the author and 
+the users with self-reliant tools and applications that are highly adaptable to a wide range of needs 
+and circumstances.
+
 ## Colour Palette
 
 <p align="center">
@@ -30,7 +37,6 @@ Their inherent minimalistic design ensures ease of comprehension and user-friend
 - `#EAE7DC`: Light
 
 Eggshell white, dark vanilla and taupe gray with jelly bean red highlights come 
-together in this minimalist yet warm and inviting site. The burst of energetic 
-color throughout the design makes this site elegant and inviting at the same time.
+together to mke a minimalist yet warm and inviting site.
 
 [Colour Scheme Link](https://visme.co/blog/website-color-schemes/#:~:text=19-,minimal%20yet%20warm,-Gusto%20Ids)
