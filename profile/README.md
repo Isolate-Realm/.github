@@ -19,11 +19,11 @@ Their inherent minimalistic design ensures ease of comprehension and user-friend
 ## Colour Palette
 
 <p align="center">
-    <img src="profile/colourpalette.png"/>
+    <img src="profile/colourscheme.png"/>
 </p>
 
-- `#DDE6ED` : Light Shade
-- `#779392` : Light Accent
-- `#749DA9` : Main Colour
-- `#526D82` : Dark Accent
-- `#27374D` : Dark Accent
+- `#323744` : Dark Shade
+- `#DCD2C2` : Light Accent
+- `#A03B4G` : Main Colour
+- `#B99481` : Light Shade
+- `#3D4454` : Dark Accent
