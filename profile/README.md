@@ -19,7 +19,7 @@ Their inherent minimalistic design ensures ease of comprehension and user-friend
 ## Colour Palette
 
 <p align="center">
-    <img src="profile/colourscheme.png" style="height: 12rem;"/>
+    <img src="profile/colourscheme.png"/>
 </p>
 
 - `#323744` : Dark Shade
